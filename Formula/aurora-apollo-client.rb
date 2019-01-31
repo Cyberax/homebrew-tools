@@ -3,8 +3,8 @@
 class AuroraApolloClient < Formula
   desc "Apollo task scheduler"
   homepage "https://github.com/aurorasolar/apollo"
-  url "https://github.com/Cyberax/homebrew-tools/raw/master/bins/apollo-release-v0.0.1.tar.gz"
-  sha256 "f4f222391b1f697ded46b6bc8506a07759b9e8760a67b269d60db0146a043da7"
+  url "https://github.com/Cyberax/homebrew-tools/raw/master/bins/apollo-release-v0.0.3.tar.gz"
+  sha256 "33eeb4b74f02c6bc453623dee84bff017755e4ef3a972d973508df6e01726cc8"
 #  head "git://git@github.com:aurorasolar/apollo.git", :branch=> "master"
   depends_on "go" => :build
   depends_on "dep" => :build
